@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1492906608 source:f:\cse project\calender and clock\imain.cpp
+	"iGraphics.h"
+	<time.h>
+
+1462108168 f:\cse project\calender and clock\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1492186302 source:f:\cse project\calender and clock\new.c
+
+1492950673 source:c:\users\nuwaisir\desktop\1605091\calender and clock\imain.cpp
+	"iGraphics.h"
+	<time.h>
+
+1462108168 c:\users\nuwaisir\desktop\1605091\calender and clock\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1492950673 source:e:\programming projects\1605091\calender and clock\imain.cpp
+	"iGraphics.h"
+	<time.h>
+
+1462108168 e:\programming projects\1605091\calender and clock\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1492950673 source:e:\programming projects\calendar_clock_offline\calender and clock\imain.cpp
+	"iGraphics.h"
+	<time.h>
+
+1462108168 e:\programming projects\calendar_clock_offline\calender and clock\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1492950673 source:e:\programming projects\calendar_clock_project_c_igraphics\imain.cpp
+	"iGraphics.h"
+	<time.h>
+
+1462108168 e:\programming projects\calendar_clock_project_c_igraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
